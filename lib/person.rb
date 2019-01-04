@@ -13,5 +13,5 @@ class Person
   end
 end
 
-celeb = Person.new("Beyonce")
-celeb.name
+beyonce = Person.new("Beyonce")
+beyonce.name
